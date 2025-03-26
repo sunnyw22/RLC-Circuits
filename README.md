@@ -1,2 +1,2 @@
 # RLC-Circuits
-Computes RLC circuit properties
+This is a 3rd year final project for the "Object Oriented Programming in C++" course. Users can construct AC-circuits with supply voltage, frequency and phase provided and the programme returns its properties (i.e. circuit impedance, impedance magnitude, circuit phase shift etc.)...

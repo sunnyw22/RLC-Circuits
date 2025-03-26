@@ -6,12 +6,12 @@
 // Wong Kwok Yiu (10453922), Last modified 11/05/2022
 
 #include "circuit.h"
-#include "components.h"
-#include "resistor.h"
-#include "inductor.h"
-#include "capacitor.h"
-#include "series.h"
-#include "parallel.h"
+#include "components/components.h"
+#include "components/resistor.h"
+#include "components/inductor.h"
+#include "components/capacitor.h"
+#include "structure/series.h"
+#include "structure/parallel.h"
 
 #include <iostream>
 #include <string>

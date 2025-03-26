@@ -5,7 +5,7 @@
 #ifndef SERIES_H
 #define SERIES_H
 
-#include "circuit.h" 
+#include "../circuit.h" 
 #include <vector>
 #include <complex>
 #include <memory>

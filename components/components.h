@@ -5,7 +5,7 @@
 #ifndef COMPONENTS_H
 #define COMPONENTS_H
 
-#include "circuit.h"
+#include "../circuit.h"
 #include <complex>
 
 class components : public circuit
